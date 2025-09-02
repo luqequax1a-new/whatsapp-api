@@ -1,0 +1,37 @@
+-------------------------------
+Changelog MV4.0.0 to MV4.0.1
+-------------------------------
+
+# Improvement
+ - Compatible with PS8.x.x
+ - Improved module performance
+ - Added sample values in templates
+ - Created templates as per new categories
+ - Compatible with Facebook Graph API v17.0
+ - Displayed API error message on the configuration page
+
+
+# Bug fix
+ - Fixed template language ISO code issue
+
+# Update policy:
+ - Need to upload only module zip file
+
+
+-------------------
+Changelog MV4.0.0
+-------------------
+- Send order update notification
+- Send order confirmation notification
+- Send order tracking notification
+- Customer can opt to recieve/deny notifications
+- Mobile number verification through OTP
+- Create multiple campaigns
+- Send campaign message to the all customers at once
+- Campaign creation based on categories
+- Campaign has action buttons (chat, visit store and browse categories)
+- Customer can initiates message to interact with store categories
+- Template creation in multilang
+- Message analytics
+- Support multishop
+- GDPR compliant

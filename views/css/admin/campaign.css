@@ -1,0 +1,74 @@
+/**
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License version 3.0
+* that is bundled with this package in the file LICENSE.txt
+* It is also available through the world-wide-web at this URL:
+* https://opensource.org/licenses/AFL-3.0
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade this module to a newer
+* versions in the future. If you wish to customize this module for your needs
+* please refer to CustomizationPolicy.txt file inside our module for more information.
+*
+* @author Webkul IN
+* @copyright Since 2010 Webkul
+* @license https://opensource.org/licenses/AFL-3.0 Academic Free License version 3.0
+*/
+
+
+.help-block {
+    margin-bottom: 5px !important;
+}
+
+#wkCreatedCampaignName {
+    font-weight: 800;
+    word-break: break-all;
+}
+
+.close {
+    position: absolute;
+    right: 25px;
+    top: 25px;
+}
+
+#whatsapp_confirmation_modal .modal-title {
+    font-size: 18px;
+}
+
+#whatsapp_confirmation_modal .modal-body {
+    height: 100px;
+    font-size: 14px;
+}
+
+/* #whatsapp_confirmation_modal .modal-footer {
+    border-top: unset;
+}
+#whatsapp_confirmation_modal .modal-header {
+    border-bottom: unset;
+} */
+
+#wabloader {
+    display: none;
+    background-color: rgba(255, 255, 255, 0.6);
+    position: absolute;
+    top: -30px;
+    left: 0;
+    z-index: 10000;
+    width: 100%;
+    height: 100%;
+}
+
+#wabloader img {
+    position: absolute;
+    top: 40%;
+    left: 43%;
+}
+
+#wabloader div {
+    position: absolute;
+    top: 100%;
+    left: 18%;
+    font-size: 16px;
+}
